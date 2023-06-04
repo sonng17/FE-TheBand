@@ -1,0 +1,19 @@
+1. header
+    -navigation
+2. slider
+3. content
+    -about
+    -tour
+    -contact
+    -image
+4. footer
+
+Quy trình làm:
+- Phân khu trước
+- Điều chỉnh vị trí phần tử (display, padding, position, float)
+- Điều chỉnh kích thước (width, height)
+- Màu sắc
+- Kiểu dáng
+
+
+ 
